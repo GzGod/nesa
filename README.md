@@ -1,6 +1,7 @@
 Nesa是轻量级的第1层区块链，使用链上ZKML对需要高度隐私、安全和信任的查询执行关键的AI推理。 — — rootdata
 官方明确说明运行节点会赚取$NES
-https://miro.medium.com/v2/resize:fit:4800/format:webp/1*djMFoisAauyK7Ip96Z-QSA.png![image](https://github.com/user-attachments/assets/b5b99185-7577-4ce6-9342-e06314534c87)
+![14051731770009_ pic](https://github.com/user-attachments/assets/af48badb-a0ba-418b-bbe8-b2d83305734e)
+
 # 最低系统要求
 CPU：多核处理器
 内存：最低 4 GB RAM
