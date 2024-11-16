@@ -44,6 +44,10 @@ view_node_id() {
 }
 
 while true; do
+    echo "我的gihub：github.com/Gzgod"
+    echo "我的推特：推特雪糕战神@Hy78516012 "
+    echo "TG群：https://t.me/+FZHZVA_gEOJhOWM1  "
+    echo "TG群（土狗交流）：https://t.me/+0X5At4YG0_k0ZThl  "
     echo "主菜单"
     echo "1. 安装节点"
     echo "2. 查看节点ID"
